@@ -1,0 +1,68 @@
+Nordeste Norte Sul Sudeste
+9 3 5 1
+Terra Marte Sol Mercurio
+4096 254 2046 132
+Dez Cem Um Cinco
+Bar Litro Quilo Metro
+Wolverine Homem-de-Ferro Capitao-America Homem-Aranha
+Judas Thiago Pedro Simao
+Medula Alcool Sangue Agua
+Ordem-e-Progresso Trabalho-e-honra Ordem-e-protecao Desordem-sem-uniao
+8 445 9 12
+Buzina Cazulo Gis Brasso
+Peseta Peso Escudo Lira
+Patio Pacadeiro Arena Bastidor
+100 1000 10 10000
+12 8 6 15
+Angolano Paulista Brasiliense Campineiro
+As-escondidas a-vista as-claras a-mostra
+Banana-maca Velhice Telefone Lobo
+Silencio Admiracao Animacao Dor
+Taco Algema Cassetete Revolver
+Dueto Duplo Duna Duque
+Ambulantes Trapaceiros Picaretas Trambiqueiros
+Cartorio Parlatorio Purgatorio Purlatorio
+Prata Incenso Ouro Mirra
+Ilha Ponta Baia Trilha
+Pechinchar Festejar Pesquisar Farejar
+Venho Vens Vinha Vindo
+Jorge-aragao Martilho-da-Vila Zeca-pagodinho Dudu-nobre
+Nenhum Quanto Este Teu
+Jornal Internet Telefone Radio
+Collor FHC LULA Dilma
+Salvador Rio-de-Janeiro Brasilia Sao-Paulo
+Inseto Reptil Ave Mamifero
+Armarinho Botica Alfandega Farmacia
+Atlantico Indico Pacifico Golfo-do-mexico
+Nervo Tendao Osso Musculo
+Informatizar Inspecionar Incinerar Desestruturar
+Canga Xale Manta Lencol
+Mamifero Peixe Reptil Anfibio
+Girassol Margarida Flor-de-sol Chapeu-de-sol
+Tato Olfato Visao Audicao
+480Minutos 380Minutos 400Minutos 500Minutos
+Pai Irmao Rei Heroi
+Motor Potente Resistente Positivo
+Tubo-de-ensaio Calice Ampulheta Termometro
+INSS CPMF IPVA CPF
+Death Born Grow Birth
+Batata-cozida Batata-frita Batata-assada Batata-Grelhada
+Mesquita Anglicano Batista Grego
+6 8 4 2
+Ri-Melhor Ri-e-chora Ri-atrasado Ri-sempre
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
